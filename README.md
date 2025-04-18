@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm KOUA KOUADJA RICHMOND</h1>
 <h3 align="center">Je suis un Genie Logiciel passionné par le développement web</h3>
+<img src= "https://drive.google.com/drive/folders/1fViclPVzw8hGDymq5tTphGfhadFwg-9K"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kouadja&label=Profile%20views&color=0e75b6&style=flat" alt="kouadja" /> </p>
 
