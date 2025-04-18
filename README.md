@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm KOUA KOUADJA RICHMOND</h1>
-<h3 align="center">Je suis un Genie Logiciel passionné par le développement web</h3>
-<img src= "https://drive.google.com/drive/folders/1fViclPVzw8hGDymq5tTphGfhadFwg-9K"/>
+<h1 align="center">Hi 👋, je suis KOUADJA RICHMOND KOUA</h1>
+<h3 align="center">Un Genie Logiciel passionné par le développement web</h3>
+<img src="https://user-images.githubusercontent.com/78534043/230702315-61c57f39-ef9b-4e8b-b1ff-d6cbbb64c808.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kouadja&label=Profile%20views&color=0e75b6&style=flat" alt="kouadja" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kouadja" alt="kouadja" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - j'ai cloner le site de Netflix [Netflix clone](https://netflix-clone-one-pied.vercel.app)
 
@@ -14,14 +10,10 @@
 
 - 📫 me contacter **richmondkouadja03@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dev z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev z" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kouadja richmond koua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kouadja richmond koua" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/kouadja-richmond-koua-628642278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kouadja-richmond-koua-628642278" height="30" width="40" /></a>
 <a href="https://instagram.com/kouadja_officiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kouadja_officiel" height="30" width="40" /></a>
 </p>
 
@@ -31,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kouadja&show_icons=true&locale=en&layout=compact" alt="kouadja" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kouadja&show_icons=true&locale=en" alt="kouadja" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kouadja&" alt="kouadja" /></p>
