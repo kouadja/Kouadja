@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kouadja&label=Profile%20views&color=0e75b6&style=flat" alt="kouadja" /> </p>
 
-- j'ai cloner le site de Netflix [Netflix clone](https://netflix-clone-one-pied.vercel.app)
+- j'ai cloné le site de Netflix [Netflix clone](https://netflix-clone-one-pied.vercel.app)
 
 - 🌱 actuellement je travail sur une application en **spring boot**
 
