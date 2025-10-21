@@ -7,6 +7,7 @@
 - j'ai cloné le site de Netflix [Netflix clone](https://netflix-clone-one-pied.vercel.app)
 
 - 🌱 actuellement je travail sur une application en **spring boot**
+-  mon portfolio (https://portfolio-upwork-plum.vercel.app)
 
 - 📫 me contacter **richmondkouadja03@gmail.com**
 
